@@ -1,0 +1,1 @@
+This is my personal portfolio project which will showcase primarily my basics apps for Mark 15 assignment for NeoG Camp.
